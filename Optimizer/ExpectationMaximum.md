@@ -78,3 +78,8 @@ $$
     - (c) 如果$\theta$收敛，结束算法；否则继续迭代。
 
 输出：模型参数$\theta$。
+
+
+# Reference
+
+- [EM算法原理总结](https://www.cnblogs.com/pinard/p/6912636.html)

@@ -11,8 +11,10 @@ $$
 点 $x$  到超平面$w^Tx + b = 0$ 的距离为：
 
 $$
-\frac{|w^Tx + b|}{||w||} \\
-||w|| = \sqrt{w_1^2 + ... + w_n^2}
+\begin{aligned}
+& \frac{|w^Tx + b|}{||w||} \\
+& ||w|| = \sqrt{w_1^2 + ... + w_n^2}
+\end{aligned}
 $$
 
 ## 函数间隔与几何间隔
